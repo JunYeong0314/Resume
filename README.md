@@ -1,4 +1,4 @@
-# 한림대학교 소프트웨어융합대학
+# 인적사항
 ---
 <img src=KJY.jpg height=150 width=150>
 김준영
