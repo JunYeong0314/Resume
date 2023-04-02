@@ -3,9 +3,9 @@
 <img src=KJY.jpg height=150 width=150>
 이름 : 김준영
 
-소속 : 소프트웨어융합대학     
+소속 : AI융합대학
 
-전공 : 콘텐츠 it / 빅데이터 복수전공  
+전공 : 소프트웨어학과
 
 생년월일 : 2000.03.14    
 
@@ -17,7 +17,7 @@ Email:<kkmtk00314@naver.com>
 * **AI**
 
 사용 가능 언어
-1.C
+1.C / C++
 2.JAVA
 3.Python
 4.JAVA Script
